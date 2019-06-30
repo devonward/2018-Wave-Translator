@@ -1,11 +1,8 @@
 # 2018-Wave-Translator
 
 Wave Translator (working title)
-
 2018-06-29
-
 created during the Digital Naturalism Conference in Koh Lon, Thailand
-
 by Devon Ward
 
 https://devon-ward.com
@@ -28,10 +25,24 @@ different parts of the body.
 
 This project was created over the course of a week as part of the 2018 Digital 
 Naturalism Conference. It is a functional prototype.
+
+/ information for setup / 
+
+Accelerometer hookup guide: 
+https://learn.sparkfun.com/tutorials/h3lis331dl-accelerometer-breakout-hookup-guide/all
+
+Xbee setup (videos):
+Xbee Basics - Lessons 1-5 by 'tunnelsup': 
+https://www.youtube.com/watch?v=odekkumB3WQ
+
+/ libraries required / 
+
+Library for Accelerometer: https://github.com/sparkfun/SparkFun_LIS331_Arduino_Library
                 
 / usage /   
 
 Use how you like.
                 
+
                 
                 
