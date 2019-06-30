@@ -1,9 +1,13 @@
 # 2018-Wave-Translator
 
 Wave Translator (working title)
+
 2018-06-29
+
 created during the Digital Naturalism Conference in Koh Lon, Thailand
+
 by Devon Ward
+
 https://devon-ward.com
 
 This is a prototype for a wearable garment the translates wave movements into a 
