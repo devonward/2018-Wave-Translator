@@ -4,7 +4,7 @@ Wave Translator (working title)
 
 2018-06-29
 
-created during the Digital Naturalism Conference in Koh Lon, Thailand
+created over the course of a week at the Digital Naturalism Conference in Koh Lon, Thailand
 
 by Devon Ward
 
